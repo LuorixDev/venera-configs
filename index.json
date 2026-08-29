@@ -59,8 +59,8 @@
         "name": "MangaDex",
         "fileName": "manga_dex.js",
         "key": "manga_dex",
-        "version": "1.1.0",
-        "description": "Account feature is not supported yet."
+        "version": "1.3.0",
+        "description": "Forum login and comments are supported."
     },
     {
         "name": "爱看漫",
