@@ -3,7 +3,7 @@
         "name": "拷贝漫画",
         "fileName": "copy_manga.js",
         "key": "copy_manga",
-        "version": "1.4.1"
+        "version": "1.4.2"
     },
     {
         "name": "拷贝漫画(多账号)",
@@ -126,7 +126,7 @@
         "name": "カドコミ",
         "fileName": "comic_walker.js",
         "key": "comic_walker",
-        "version": "1.0.0"
+        "version": "1.0.1"
     },
     {
         "name": "漫画1234",
