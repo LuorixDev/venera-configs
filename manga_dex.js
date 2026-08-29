@@ -8,7 +8,7 @@ class MangaDex extends ComicSource {
     // unique id of the source
     key = "manga_dex"
 
-    version = "1.3.0"
+    version = "1.2.0"
 
     minAppVersion = "1.6.0"
 
